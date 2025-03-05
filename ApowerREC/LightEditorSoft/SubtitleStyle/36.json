@@ -1,0 +1,15 @@
+{
+    "FontSize": 44,
+	"FontFamily": "Arial",
+	"SolidColor": "#FFFFFF",
+	"Order": 36,
+    "Name":"36",
+	"BackgroundStyle": {
+			"ShowBackground": true,
+			"BackgroundColor": "#FBEA57",
+			"BackgroundOpacity": "1"
+		},
+    "Thumbnail":"36.png"
+}
+
+

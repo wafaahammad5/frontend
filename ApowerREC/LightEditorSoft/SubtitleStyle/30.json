@@ -1,0 +1,21 @@
+{
+    "FontSize": 44,
+	"FontFamily": "Arial",
+	"SolidColor": "#F08BE9",
+	"Order": 30,
+    "Name":"30",
+	"BackgroundStyle": {
+			"ShowBackground": true,
+			"BackgroundColor": "#ADA0F2",
+			"BackgroundOpacity": "1"
+		},
+	"StrokeStyle": {
+			"ShowStroke": true,
+			"Stroke": "#FFFFFF",
+			"StrokeThickness": "2",
+			"StrokeOpacity": "1"
+		},
+    "Thumbnail":"30.png"
+}
+
+

@@ -1,0 +1,16 @@
+{
+    "FontSize": 44,
+	"FontFamily": "Arial",
+	"SolidColor": "#FFFFFF",
+	"Order": 12,
+    "Name":"12",
+	"StrokeStyle": {
+			"ShowStroke": true,
+			"Stroke": "#2D2D33",
+			"StrokeThickness": "2",
+			"StrokeOpacity": "1"
+		},
+    "Thumbnail":"12.png"
+}
+
+

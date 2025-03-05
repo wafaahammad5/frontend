@@ -1,0 +1,62 @@
+﻿2025-02-02 06:58:54.563   Log opened. (Time zone: UTC+02:00)
+2025-02-02 06:58:54.563   Setup version: Inno Setup version 6.0.2 (u)
+2025-02-02 06:58:54.563   Original Setup EXE: D:\apowerrec-saas-online (1).exe
+2025-02-02 06:58:54.563   Setup command line: /SL5="$4088E,48579813,913408,D:\apowerrec-saas-online (1).exe" /SPAWNWND=$308D4 /NOTIFYWND=$8086C 
+2025-02-02 06:58:54.563   Windows version: 10.0.19045  (NT platform: Yes)
+2025-02-02 06:58:54.563   64-bit Windows: Yes
+2025-02-02 06:58:54.563   Processor architecture: x64
+2025-02-02 06:58:54.563   User privileges: Administrative
+2025-02-02 06:58:54.569   Administrative install mode: Yes
+2025-02-02 06:58:54.569   Install mode root key: HKEY_LOCAL_MACHINE
+2025-02-02 06:58:54.569   64-bit install mode: No
+2025-02-02 06:58:56.695   Created temporary directory: C:\Users\hp\AppData\Local\Temp\is-4F194.tmp
+2025-02-02 06:58:56.702   -- DLL function import --
+2025-02-02 06:58:56.702   Function name: isxdl_AddFile
+2025-02-02 06:58:56.702   DLL name: files:isxdl.dll
+2025-02-02 06:58:56.702   Extracting temporary file: C:\Users\hp\AppData\Local\Temp\is-4F194.tmp\isxdl.dll
+2025-02-02 06:58:56.709   Dest DLL name: C:\Users\hp\AppData\Local\Temp\is-4F194.tmp\isxdl.dll
+2025-02-02 06:58:56.709   Importing the DLL function.
+2025-02-02 06:58:56.716   Successfully imported the DLL function. Delay loaded? No
+2025-02-02 06:58:56.716   -- DLL function import --
+2025-02-02 06:58:56.716   Function name: isxdl_DownloadFiles
+2025-02-02 06:58:56.716   DLL name: files:isxdl.dll
+2025-02-02 06:58:56.716   Dest DLL name: C:\Users\hp\AppData\Local\Temp\is-4F194.tmp\isxdl.dll
+2025-02-02 06:58:56.716   Importing the DLL function.
+2025-02-02 06:58:56.716   Successfully imported the DLL function. Delay loaded? No
+2025-02-02 06:58:56.716   -- DLL function import --
+2025-02-02 06:58:56.716   Function name: isxdl_SetOption
+2025-02-02 06:58:56.716   DLL name: files:isxdl.dll
+2025-02-02 06:58:56.716   Dest DLL name: C:\Users\hp\AppData\Local\Temp\is-4F194.tmp\isxdl.dll
+2025-02-02 06:58:56.716   Importing the DLL function.
+2025-02-02 06:58:56.716   Successfully imported the DLL function. Delay loaded? No
+2025-02-02 06:58:56.717   -- DLL function import --
+2025-02-02 06:58:56.717   Function name: _time32
+2025-02-02 06:58:56.717   DLL name: msvcrt.dll
+2025-02-02 06:58:56.717   Dest DLL name: msvcrt.dll
+2025-02-02 06:58:56.717   Importing the DLL function.
+2025-02-02 06:58:56.717   Successfully imported the DLL function. Delay loaded? No
+2025-02-02 06:59:09.607   Calling RestartManager's RmGetList.
+2025-02-02 06:59:23.706   RmGetList finished successfully.
+2025-02-02 06:59:23.706   RestartManager found no applications using one of our files.
+2025-02-02 06:59:23.718   Starting the installation process.
+2025-02-02 06:59:23.722   Directory for uninstall files: D:\ApowerREC
+2025-02-02 06:59:23.732   Will append to existing uninstall log: D:\ApowerREC\unins000.dat
+2025-02-02 06:59:23.735   -- File entry --
+2025-02-02 06:59:23.736   Dest filename: D:\ApowerREC\unins000.exe
+2025-02-02 06:59:23.738   Time stamp of our file: 2025-02-02 06:58:54.108
+2025-02-02 06:59:23.738   Dest file exists.
+2025-02-02 06:59:23.738   Time stamp of existing file: 2025-02-02 04:57:45.785
+2025-02-02 06:59:23.738   Version of our file: 51.1052.0.0
+2025-02-02 06:59:23.919   Version of existing file: 51.1052.0.0
+2025-02-02 06:59:23.919   Installing the file.
+2025-02-02 06:59:23.928   Leaving temporary file in place for now.
+2025-02-02 06:59:23.928   -- File entry --
+2025-02-02 06:59:23.929   Dest filename: D:\ApowerREC\Adorners.dll
+2025-02-02 06:59:23.929   Time stamp of our file: 2013-05-28 19:25:42.000
+2025-02-02 06:59:23.929   Dest file exists.
+2025-02-02 06:59:23.929   Time stamp of existing file: 2013-05-28 19:25:42.000
+2025-02-02 06:59:23.929   Installing the file.
+2025-02-02 06:59:23.932   Successfully installed the file.
+2025-02-02 06:59:23.933   -- File entry --
+2025-02-02 06:59:23.933   Dest filename: D:\ApowerREC\Aliyun.Log.dll
+2025-02-02 06:59:23.933   

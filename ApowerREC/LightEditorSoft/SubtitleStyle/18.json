@@ -1,0 +1,15 @@
+{
+    "FontSize": 44,
+	"FontFamily": "Arial",
+	"SolidColor": "#F8867D",
+	"Order": 18,
+    "Name":"18",
+	"BackgroundStyle": {
+			"ShowBackground": true,
+			"BackgroundColor": "#2D2D33",
+			"BackgroundOpacity": "1"
+		},
+    "Thumbnail":"18.png"
+}
+
+

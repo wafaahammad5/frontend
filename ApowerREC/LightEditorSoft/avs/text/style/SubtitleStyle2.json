@@ -1,0 +1,22 @@
+{
+	"Name": "subtitle2",
+	"Thumbnail": "SubtitleStyle2.png",
+	"ZipName": "7SubtitleStyle2",
+	"LanguageInfo": {
+			"en": "Subtitle2",
+			"zh": "黑底字幕"
+		},
+	"Items": [{
+		"$type": "Apowersoft.VideoEditor.Model.SegmentText, Apowersoft Video Editor, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null",
+		"Data": "HAPPY TIME",
+		"TextStyle": {
+			"FontSize": 40,
+			"FontFamily": "Arial",
+			"SolidColor": "#FFFFFF",
+			"BackgroundColor": "#C8000000"			
+		},
+		"Offset": "0,-11",
+		"ControlHorizontalAlignment": "Center",
+		"ControlVerticalAlignment": "Bottom"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+    "FontSize": 44,
+	"FontFamily": "Arial",
+	"SolidColor": "#FFFC01",
+	"Order": 33,
+    "Name":"33",
+	"BackgroundStyle": {
+			"ShowBackground": true,
+			"BackgroundColor": "#ABE398",
+			"BackgroundOpacity": "1"
+		},
+	"StrokeStyle": {
+			"ShowStroke": true,
+			"Stroke": "#49B126",
+			"StrokeThickness": "2",
+			"StrokeOpacity": "1"
+		},
+    "Thumbnail":"33.png"
+}
+
+

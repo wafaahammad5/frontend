@@ -1,0 +1,67 @@
+{
+    "skushow": {
+        "skulist": [
+            {
+                "sku": "vip_pro_plus",
+                "badgeVisible":true,
+                "badge": 
+                {
+                    "name": "超级会员Pro+",
+                    "icon": "badge_pro_plus.svg",
+                    "hoverIcon":"badge_pro_plus_hover.svg",
+                    "clickIcon":"badge_pro_plus.svg"
+                },
+                "explainText": "超级会员尊享项高级功能特权",
+                "guideText": "会员享特权",
+                "buttonUpgrateVipText":"续费会员",
+                "titleUpgrateVipVisible":false
+            },
+            {
+                "sku": "vip_pro",
+                "badgeVisible":true,
+                "badge": 
+                {
+                    "name": "超级会员Pro",
+                    "icon": "badge_pro.svg",
+                    "hoverIcon":"badge_pro_hover.svg",
+                    "clickIcon":"badge_pro.svg"
+                },
+                "explainText": "超级会员尊享项高级功能特权",
+                "guideText": "会员享特权",
+                "buttonUpgrateVipText":"续费会员",
+                "titleUpgrateVipVisible":false
+            },
+            {
+                "sku": "40",
+                "badgeVisible":false,
+                "explainText": "升级会员体验全新超级会员",
+                "guideText": "邀请您体验全新超级会员",
+                "buttonUpgrateVipText":"立即升级",
+                "titleUpgrateVipVisible":false
+            },
+            {
+                "sku": "20",
+                "badgeVisible":false,
+                "explainText": "升级会员体验全新超级会员",
+                "guideText": "邀请您体验全新超级会员",
+                "buttonUpgrateVipText":"立即升级",
+                "titleUpgrateVipVisible":false
+            }
+        ],
+        "default":{
+            "badgeVisible":true,
+            "badge": 
+            {
+                "name": "开通会员",
+                "icon": "badge_pro_gary.svg",
+                "hoverIcon":"badge_pro_hover.svg",
+                "clickIcon":"badge_pro_gary.svg"
+            },
+            "explainText": "超级会员Pro尊享80+项功能特权+海量资源模板！",
+            "guideText": "开会员，享特权，免广告",
+            "buttonUpgrateVipText":"开通会员",
+            "titleUpgrateVipVisible":true,
+            "titleUpgrateVipText":"开通会员"
+        }
+    }
+}

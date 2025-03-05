@@ -1,0 +1,15 @@
+{
+    "FontSize": 44,
+	"FontFamily": "Arial",
+	"SolidColor": "#FFFFFF",
+	"Order": 27,
+    "Name":"27",
+	"BackgroundStyle": {
+			"ShowBackground": true,
+			"BackgroundColor": "#BCBFC3",
+			"BackgroundOpacity": "1"
+		},
+    "Thumbnail":"27.png"
+}
+
+

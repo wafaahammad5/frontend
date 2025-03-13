@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+    font-family: 'Inter';
+}
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #F5F7FA;
+    
+}
+ul{
+    display: flex;
+    gap: 50px;
+    
+}
+li{
+    
+    list-style-type: none;
+    /* gap: 50px; */
+    /* margin-right: 10px; */
+}
+a{
+    text-decoration: none;
+    color: #18191F;
+    font-weight: 400;
+}
+button{
+    margin-top: 20px;
+    color: #4CAF4F;
+    border: none;
+    background-color:#F5F7FA;
+    border-radius: 4px;
+    
+
+}
+.colored{
+    background-color:#4CAF4F;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 9px;
+}
+h1{
+    line-height: 76px;
+    font-weight: 600;
+    font-size: 64px;
+    width: 657px; ;
+}
+
+
+.lessons{
+    align-items: center;
+    justify-content: center;
+    background-color:#F5F7FA;
+    display: flex;
+    justify-content: space-evenly
+}
+.hero{
+    background-color: #F5F7FA;
+}
+.from{
+    color: #4CAF4F;
+}
+
+.illustration{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+p{
+    color: #717171;
+    font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
